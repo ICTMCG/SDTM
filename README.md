@@ -61,7 +61,7 @@ Besides, we provide a replica for our environment here:
 sample images for **visualization**
 
 ```bash
-python sample_demo.py --caption "An orange reddish rose in a vase filled with water on top of a table."
+bash demo.sh
 ```
 
 sample images for **evaluation**
